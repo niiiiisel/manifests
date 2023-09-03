@@ -118,4 +118,12 @@
     <pkg>lxqt</pkg>
     <pkg>sddm</pkg>
   </profile>
+
+  <profile name="hyprland" dm="gdm">
+    <!-- WayDroid -->
+    <pkg>waydroid-blend-git</pkg>
+    <pkg>waydroid-image</pkg>
+    <!-- GNOME packages -->
+    <pkg>hyprland</pkg>
+  </profile>
 </manifest>
